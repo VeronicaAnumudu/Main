@@ -5,10 +5,15 @@ Welcome to my data and analytics portfolio. This portfolio showcases selected pr
 
 ## Featured Projects
 
-### Cost Performance Dashboard Automation
+## Portfolio Projects
+
+### 1. Cost Performance Dashboard Automation
 
 An enterprise cost reporting automation project designed to improve reporting accuracy, efficiency, and visibility into key cost drivers.
 
 **Technologies:** SAP ECC | SAP BW | SAP Datasphere | SAP Analytics Cloud | SQL
 
 [📖 View Project Documentation](https://github.com/VeronicaAnumudu/Cost-Performance-Dashboard-Automation)
+
+### 2. Maintenance Planners Analytics
+Coming soon.
